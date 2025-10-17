@@ -1,0 +1,55 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+body {
+  @apply bg-gradient-to-br from-slate-950 via-purple-950 to-slate-900 text-white;
+  font-family: "Inter", sans-serif;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 bg-clip-text text-transparent;
+}
+
+.glass-effect {
+  @apply bg-white/5 backdrop-blur-xl border border-white/10;
+}
+
+.glow-effect {
+  box-shadow: 0 0 40px rgba(168, 85, 247, 0.4);
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+/* Global Styles */
+body {
+  @apply bg-gradient-to-br from-gradientStart via-background to-gradientEnd text-text;
+  font-family: "Inter", sans-serif;
+}
+
+/* Gradient Text Using Brand Colors */
+.gradient-text {
+  @apply bg-gradient-to-r from-primary via-secondary to-highlight bg-clip-text text-transparent;
+}
+
+/* Glassmorphism Effect */
+.glass-effect {
+  @apply bg-white/5 backdrop-blur-xl border border-border;
+}
+
+/* Soft Glow Effect (Brand Accent Glow) */
+.glow-effect {
+  box-shadow: 0 0 40px rgba(108, 99, 255, 0.4); /* using primary (#6C63FF) glow */
+}
+
+/* Optional Hover Accent Utility */
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(158, 139, 255, 0.5); /* highlight color glow */
+}
