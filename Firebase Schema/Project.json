@@ -1,0 +1,271 @@
+{
+  "projects": [
+    null,
+    {
+      "title": "Dubai Startup MVP",
+      "Description": "Built & launched a complete MVP in just 40 days",
+      "Tags": ["SaaS", "Cloud", "Rapid Development"],
+      "color": "from-primary to-secondary",
+      "icon": "zap"
+    },
+    {
+      "title": "ArtMorph",
+      "Description": "Real-time AI video style transfer API with cutting-edge ML models",
+      "Tags": ["AI/ML", "Computer Vision", "API"],
+      "color": "from-primary to-highlight",
+      "icon": "Video"
+    },
+    {
+      "title": "AI Automation Platform",
+      "Description": "Reduced client support hours by 60% with intelligent automation",
+      "Tags": ["AI", "Automation", "Efficiency"],
+      "color": "from-gradientStart to-gradientEnd",
+      "icon": "Bot"
+    }
+  ],
+
+  "about": [
+    null,
+    {
+      "icon": "TrendingUp",
+      "label": "Years Experience",
+      "value": "6+"
+    },
+    {
+      "icon": "CheckCircle",
+      "label": "Projects Delivered",
+      "value": "100+"
+    },
+    {
+      "icon": "Globe",
+      "label": "Global Clients",
+      "value": "Worldwide"
+    }
+  ],
+
+  "experiences": [
+    null,
+    {
+      "company": "Muhammad Saadullah — Aicyro Solutions",
+      "location": "Global",
+      "role": "Founder & CEO",
+      "description": "Delivering scalable SaaS, AI/ML, and Cloud Security solutions for businesses worldwide — merging innovation with compliance and speed.",
+      "color": "from-primary to-secondary"
+    }
+  ],
+
+  "skills": [
+    null,
+    {
+      "icon": "Brain",
+      "title": "AI/ML",
+      "description": "Building intelligent systems with TensorFlow, and modern deep learning architectures for real-world applications.",
+      "color": "from-primary via-secondary to-highlight"
+    },
+    {
+      "icon": "Cloud",
+      "title": "Cloud & SaaS",
+      "description": "Designing scalable, fault-tolerant SaaS infrastructures using AWS, Azure, GCP, and Kubernetes.",
+      "color": "from-secondary via-primary to-muted"
+    },
+    {
+      "icon": "Shield",
+      "title": "Cybersecurity",
+      "description": "Embedding Zero Trust, compliance, and proactive threat detection into every product layer.",
+      "color": "from-primary via-primaryHover to-secondary"
+    },
+    {
+      "icon": "Code",
+      "title": "Full Stack Development",
+      "description": "Developing high-performance applications using React, Node.js, Next.js, and TypeScript.",
+      "color": "from-primary to-highlight"
+    },
+    {
+      "icon": "Database",
+      "title": "Data Engineering",
+      "description": "Crafting robust data pipelines, analytics, and real-time systems using PostgreSQL, MongoDB, and Redis.",
+      "color": "from-gradientStart to-gradientEnd"
+    },
+    {
+      "icon": "Cpu",
+      "title": "DevOps & Automation",
+      "description": "Implementing CI/CD, Docker, Terraform, and observability pipelines for fast, secure deployments.",
+      "color": "from-muted via-primary to-secondary"
+    }
+  ],
+
+  "socials": [
+    null,
+    {
+      "icon": "Linkedin",
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/muhammad-saadullah-911497388/"
+    },
+    {
+      "icon": "Globe",
+      "label": "company",
+      "href": "https://www.aicyro.com/"
+    },
+    {
+      "icon": "Twitter",
+      "label": "Twitter",
+      "href": "https://twitter.com/your-handle"
+    }
+  ],
+
+  "messages": {
+    "auto-generated-id-1": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "This is a test message.",
+      "timestamp": "2024-10-13T18:30:00Z"
+    }
+  },
+  "contactInfo": {
+    "email": "info@aicyro.com"
+  },
+
+  "aboutRauf": [
+    null,
+    {
+      "icon": "ShieldCheck",
+      "value": "200+",
+      "label": "Secure Projects Delivered"
+    },
+    {
+      "icon": "BrainCircuit",
+      "value": "AI-Driven",
+      "label": "Threat Detection Frameworks"
+    },
+    {
+      "icon": "FileLock2",
+      "value": "SOC2 & ISO",
+      "label": "Compliance Audits Passed"
+    }
+  ],
+  "experiencesRauf": [
+    null,
+    {
+      "company": "Aicyro Solutions",
+      "role": "Founder & CEO",
+      "location": "Islāmābād, Pakistan",
+      "description": "Delivered 200+ cybersecurity and software projects across finance, SaaS, and healthcare. Built AI-driven security automation frameworks and helped startups achieve SOC2 & ISO compliance by embedding security-first processes.",
+      "color": "from-primary to-secondary"
+    }
+  ],
+
+  "projectsRauf": [
+    null,
+    {
+      "title": "AI-Driven Threat Detection",
+      "Description": "Developed an AI-powered security framework that automates threat identification and response, reducing incident resolution time by 70%.",
+      "Tags": ["AI/ML", "Cybersecurity", "Automation"],
+      "color": "from-primary to-secondary",
+      "icon": "Shield"
+    },
+    {
+      "title": "SaaS Compliance Automation",
+      "Description": "Engineered a security-first process that helped SaaS startups successfully pass SOC2 & ISO audits, ensuring data integrity and trust.",
+      "Tags": ["Compliance", "SOC2/ISO", "Cloud Security"],
+      "color": "from-primary to-highlight",
+      "icon": "BadgeCheck"
+    },
+    {
+      "title": "Ethical Hacking & Red Teaming",
+      "Description": "Led 50+ red teaming exercises, identifying critical vulnerabilities in enterprise systems before they could be exploited by attackers.",
+      "Tags": ["Penetration Testing", "Red Teaming", "Ethical Hacking"],
+      "color": "from-gradientStart to-gradientEnd",
+      "icon": "Bug"
+    }
+  ],
+
+  "skillsRauf": [
+    null,
+    {
+      "icon": "Brain",
+      "title": "AI-Driven Threat Detection",
+      "description": "Leveraging AI/ML models to build intelligent security systems that proactively detect and respond to emerging cyber threats in real-time.",
+      "color": "from-secondary via-primary to-muted"
+    },
+    {
+      "icon": "Cloud",
+      "title": "Cloud Security",
+      "description": "Securing multi-cloud environments (AWS, Azure, GCP) by implementing best practices for architecture, configuration, and threat monitoring.",
+      "color": "from-primary via-primaryHover to-secondary"
+    },
+    {
+      "icon": "Cpu",
+      "title": "Penetration Testing & Ethical Hacking",
+      "description": "Simulating real-world attacks to identify and remediate critical vulnerabilities across web, mobile, and cloud environments.",
+      "color": "from-primary via-secondary to-highlight"
+    },
+    {
+      "icon": "Shield",
+      "title": "Compliance & Risk Management",
+      "description": "Guiding organizations through complex compliance landscapes like GDPR, HIPAA, SOC2, and ISO 27001 to ensure data protection and trust.",
+      "color": "from-primary to-highlight"
+    },
+    {
+      "icon": "Code",
+      "title": "Security Automation (DevSecOps)",
+      "description": "Integrating automated security controls and testing into CI/CD pipelines to build resilient applications that are secure by design.",
+      "color": "from-gradientStart to-gradientEnd"
+    },
+    {
+      "icon": "Database",
+      "title": "Vulnerability Assessment",
+      "description": "Conducting comprehensive vulnerability assessments and risk analysis to prioritize and manage security weaknesses effectively.",
+      "color": "from-muted via-primary to-secondary"
+    }
+  ],
+  "missionStatement": [
+    null,
+    {
+      "paragraph1": "At Aicyro Solutions, our core mission is to empower businesses by engineering innovative and scalable digital solutions. We are driven by the challenge of solving complex problems, transforming our clients' visions into tangible realities that drive growth, efficiency, and market leadership in an increasingly digital world.",
+      "paragraph2": "We are committed to harnessing the full potential of modern technology through a collaborative and client-centric approach. Our process is built on a foundation of clear communication, agile development, and technical excellence. We don't just build software; we build partnerships, working closely with our clients to understand their unique needs and deliver solutions that are not only powerful but also intuitive and user-friendly.",
+      "paragraph3": "Our ultimate goal is to be a catalyst for success. We strive to push the boundaries of what's possible, delivering robust, secure, and future-proof applications that provide a competitive edge. We measure our success by the success of our clients, and we are dedicated to being a reliable technology partner on their journey to achieving greatness."
+    }
+  ],
+
+  "blogs": [
+    {
+      "title": "The Aicyro Difference: Smart, Secure, and Scalable",
+      "author": "Muhammad Saadullah",
+      "date": "October 17, 2025",
+      "color": "from-primary to-secondary",
+      "summary": "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability...",
+      "fullContent": [
+        "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability. Formerly known as TekStream IO, we have become a global technology partner for startups, scaleups, and enterprises across the US, UK, Europe, and the GCC.",
+        "Speed and Intelligence: The AI-Driven Advantage. We believe that speed to market is a critical advantage. That’s why we’ve honed a process that allows us to launch robust SaaS MVPs in as little as 30-45 days. A recent highlight includes building and launching a Dubai startup's MVP in just 40 days. However, speed without intelligence is a missed opportunity. Our approach is AI-driven, integrating technologies like LLM-powered automation and predictive analytics where they create tangible business value. Led by our CEO, Muhammad Saadullah, an AI/ML Engineer with past experience leading AI initiatives at Salesforce, we have a proven track record. Our projects include developing ArtMorph, a real-time AI video style transfer API , and deploying AI automation that successfully reduced a client's support hours by 60%.",
+        "Security-First: Our Unshakeable Foundation. For us, security is not an afterthought—it's the foundation of everything we build. We lead with a security-first mindset, embedding penetration testing, AI-driven threat detection, and compliance-ready frameworks into our development lifecycle. Under the leadership of our CEO, M. Rauf, a cybersecurity expert with over 200 projects delivered , our teams specialize in penetration testing, ethical hacking, and red teaming. We design products that are secure by design, helping startups pass critical SOC2 & ISO audits and protecting enterprises in finance, healthcare, and SaaS. Our expertise ensures your platform is compliant with standards like SOC2, ISO 27001, HIPAA, and GDPR.",
+        "Scalability: Built for Tomorrow's Growth. A solution that can’t grow with your business is a liability. We ensure your platform is built for the future by leveraging cloud-native architectures on AWS, GCP, and Azure. Using modern practices like CI/CD, microservices, and Kubernetes, we engineer platforms that stand the test of scale. With over 100+ successful projects delivered worldwide, our mission is to empower businesses to innovate faster, safer, and smarter. Whether you are launching an MVP, securing an enterprise platform, or integrating AI, Aicyro Solutions is your dedicated partner in digital transformation."
+      ]
+    },
+    {
+      "title": "The Aicyro Difference: Smart, Secure, and Scalable",
+      "author": "Muhammad Saadullah",
+      "date": "October 17, 2025",
+      "color": "from-primary to-secondary",
+      "summary": "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability...",
+      "fullContent": [
+        "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability. Formerly known as TekStream IO, we have become a global technology partner for startups, scaleups, and enterprises across the US, UK, Europe, and the GCC.",
+        "Speed and Intelligence: The AI-Driven Advantage. We believe that speed to market is a critical advantage. That’s why we’ve honed a process that allows us to launch robust SaaS MVPs in as little as 30-45 days. A recent highlight includes building and launching a Dubai startup's MVP in just 40 days. However, speed without intelligence is a missed opportunity. Our approach is AI-driven, integrating technologies like LLM-powered automation and predictive analytics where they create tangible business value. Led by our CEO, Muhammad Saadullah, an AI/ML Engineer with past experience leading AI initiatives at Salesforce, we have a proven track record. Our projects include developing ArtMorph, a real-time AI video style transfer API , and deploying AI automation that successfully reduced a client's support hours by 60%.",
+        "Security-First: Our Unshakeable Foundation. For us, security is not an afterthought—it's the foundation of everything we build. We lead with a security-first mindset, embedding penetration testing, AI-driven threat detection, and compliance-ready frameworks into our development lifecycle. Under the leadership of our CEO, M. Rauf, a cybersecurity expert with over 200 projects delivered , our teams specialize in penetration testing, ethical hacking, and red teaming. We design products that are secure by design, helping startups pass critical SOC2 & ISO audits and protecting enterprises in finance, healthcare, and SaaS. Our expertise ensures your platform is compliant with standards like SOC2, ISO 27001, HIPAA, and GDPR.",
+        "Scalability: Built for Tomorrow's Growth. A solution that can’t grow with your business is a liability. We ensure your platform is built for the future by leveraging cloud-native architectures on AWS, GCP, and Azure. Using modern practices like CI/CD, microservices, and Kubernetes, we engineer platforms that stand the test of scale. With over 100+ successful projects delivered worldwide, our mission is to empower businesses to innovate faster, safer, and smarter. Whether you are launching an MVP, securing an enterprise platform, or integrating AI, Aicyro Solutions is your dedicated partner in digital transformation."
+      ]
+    },
+    {
+      "title": "The Aicyro Difference: Smart, Secure, and Scalable",
+      "author": "Muhammad Saadullah",
+      "date": "October 17, 2025",
+      "color": "from-primary to-secondary",
+      "summary": "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability...",
+      "fullContent": [
+        "In today’s digital landscape, businesses need more than just software; they need a strategic technology partner. At Aicyro Solutions, we build digital platforms designed to deliver measurable impact by focusing on three core pillars: intelligence, security, and scalability. Formerly known as TekStream IO, we have become a global technology partner for startups, scaleups, and enterprises across the US, UK, Europe, and the GCC.",
+        "Speed and Intelligence: The AI-Driven Advantage. We believe that speed to market is a critical advantage. That’s why we’ve honed a process that allows us to launch robust SaaS MVPs in as little as 30-45 days. A recent highlight includes building and launching a Dubai startup's MVP in just 40 days. However, speed without intelligence is a missed opportunity. Our approach is AI-driven, integrating technologies like LLM-powered automation and predictive analytics where they create tangible business value. Led by our CEO, Muhammad Saadullah, an AI/ML Engineer with past experience leading AI initiatives at Salesforce, we have a proven track record. Our projects include developing ArtMorph, a real-time AI video style transfer API , and deploying AI automation that successfully reduced a client's support hours by 60%.",
+        "Security-First: Our Unshakeable Foundation. For us, security is not an afterthought—it's the foundation of everything we build. We lead with a security-first mindset, embedding penetration testing, AI-driven threat detection, and compliance-ready frameworks into our development lifecycle. Under the leadership of our CEO, M. Rauf, a cybersecurity expert with over 200 projects delivered , our teams specialize in penetration testing, ethical hacking, and red teaming. We design products that are secure by design, helping startups pass critical SOC2 & ISO audits and protecting enterprises in finance, healthcare, and SaaS. Our expertise ensures your platform is compliant with standards like SOC2, ISO 27001, HIPAA, and GDPR.",
+        "Scalability: Built for Tomorrow's Growth. A solution that can’t grow with your business is a liability. We ensure your platform is built for the future by leveraging cloud-native architectures on AWS, GCP, and Azure. Using modern practices like CI/CD, microservices, and Kubernetes, we engineer platforms that stand the test of scale. With over 100+ successful projects delivered worldwide, our mission is to empower businesses to innovate faster, safer, and smarter. Whether you are launching an MVP, securing an enterprise platform, or integrating AI, Aicyro Solutions is your dedicated partner in digital transformation."
+      ]
+    }
+  ]
+}
